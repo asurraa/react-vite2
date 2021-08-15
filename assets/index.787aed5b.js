@@ -1,0 +1,1 @@
+import{j as e,r,a as t,D as n,R as d}from"./vendor.57fbf00c.js";const i=()=>e(r.exports.Fragment,{children:e("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh"},children:t("div",{children:[e("h1",{children:"Hello world"}),e(n,{})]})})});d.render(e(r.exports.StrictMode,{children:e(i,{})}),document.getElementById("root"));
